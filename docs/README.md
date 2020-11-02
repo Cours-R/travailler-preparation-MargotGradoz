@@ -1,4 +1,4 @@
-#Margot Gradoz
+# Margot Gradoz
 
 ![Photo Margot](images/Margot.jpg)
 
