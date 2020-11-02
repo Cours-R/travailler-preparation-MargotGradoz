@@ -1,6 +1,6 @@
 #Margot Gradoz
 
-![Logo EcoFoG](images/Margot.jpg)
+![Photo Margot](images/Margot.jpg)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
