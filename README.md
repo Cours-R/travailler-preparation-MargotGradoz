@@ -1,6 +1,6 @@
-# Introduction du cours Travailler avec R
+#Margot Gradoz
 
-![Logo EcoFoG](images/EcoFoG2020.png)
+![Logo EcoFoG](images/Margot.jpg)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
